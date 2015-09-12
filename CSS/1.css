@@ -1,0 +1,28 @@
+h1 {
+    color: #ff00f0;
+    background-color: #369;
+}
+
+pre {
+    font-size: 40px;
+}
+
+p {
+    text-indent: 4em;
+}
+
+/*class selector*/
+.indent-test {
+    text-indent: 2em;
+}
+.big {
+    font-size: 30px;
+}
+
+/*id selector*/
+#red {
+    color: #ff0000;
+}
+#small {
+    font-size: 10px;
+}
